@@ -1,0 +1,74 @@
+{
+    "title": "layout_a_example",
+    "titleAffix": "",
+    "pageTitle": "demo-page-title",
+    "w1_1": {
+        "idf": "w1_1"
+    },
+    "w2_1": {
+        "idf": "w2_1",
+        "header": {
+            "words": "this is w2_1 header"
+        },
+        "content": "this is w2 content!",
+        "footer": {
+            "words": "this is w2_1 footer"
+        }
+    },
+    "w3_1": {
+        "idf": "w3_1",
+        "list": [
+            {
+                "firstRow": true,
+                "items": [
+                    {
+                        "href": "http://alibaba.com",
+                        "txt": "羽联排名谌龙次席李雪芮上升大马获两项第一或发现更多伦敦奥运阳性案例",
+                        "styleColor": "",
+                        "styleBold": false
+                    }
+                ]
+            },
+            {
+                "firstRow": false,
+                "items": [
+                    {
+                        "href": "http://alibaba.com",
+                        "txt": "羽联排名谌龙次席李雪芮上升大马获两项第一",
+                        "styleColor": "",
+                        "styleBold": false
+                    },
+                    {
+                        "href": "http://alibaba.com",
+                        "txt": "国际奥委会或发现更多伦敦奥运阳性案例",
+                        "styleColor": "#00ff00",
+                        "styleBold": true
+                    }
+                ]
+            },
+            {
+                "firstRow": false,
+                "items": [
+                    {
+                        "href": "http://alibaba.com",
+                        "txt": "乒联总决赛丁宁4-0横扫对手",
+                        "styleColor": "",
+                        "styleBold": true
+                    },
+                    {
+                        "href": "http://alibaba.com",
+                        "txt": "郎平自称袁伟民关门弟子",
+                        "styleColor": "",
+                        "styleBold": false
+                    },
+                    {
+                        "href": "http://alibaba.com",
+                        "txt": "亡命车手孤独感是常态",
+                        "styleColor": "",
+                        "styleBold": false
+                    }
+                ]
+            }
+        ]
+    }
+}

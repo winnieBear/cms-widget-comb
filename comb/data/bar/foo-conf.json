@@ -1,0 +1,38 @@
+{
+    "project": "project_a",
+    "pageLayout": "layout_a",
+    "pagePath": "foo/foo",
+    "arrWidget": [
+        {
+            "id": "header_1",
+            "name": "widget/header/header.vm",
+            "conf": {
+                "dataKey": "$header_1"
+            }
+        },
+        {
+            "id": "w1_1",
+            "name": "widget/w1/w1.vm",
+            "conf": {}
+        },
+        {
+            "id": "w2_1",
+            "name": "widget/w2/w2.vm",
+            "conf": {
+                "dataKey": "$w2_1"
+            }
+        },
+        {
+            "id": "w2_2",
+            "name": "widget/w2/w2.vm",
+            "conf": {
+                "dataKey": "$w2_2"
+            }
+        },
+        {
+            "id": "footer_1",
+            "name": "widget/footer/footer.vm",
+            "conf": {}
+        }
+    ]
+}

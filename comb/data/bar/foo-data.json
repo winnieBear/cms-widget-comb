@@ -1,0 +1,53 @@
+{
+    "title": "demo",
+    "titleAffix": "index",
+    "pageTitle": "demo-page-title",
+    "header_1": {
+        "idf": "header_1",
+        "menus": [
+            {
+                "label": "baidu",
+                "href": "http://baidu.com"
+            },
+            {
+                "label": "alibaba",
+                "href": "http://alibaba.com"
+            },
+            {
+                "label": "tencent",
+                "href": "http://qq.com",
+                "children": []
+            },
+            {
+                "label": "le",
+                "href": "http://le.com"
+            }
+        ]
+    },
+    "w1_1": {
+        "idf": "w1_1"
+    },
+    "w2_1": {
+        "idf": "w2_1",
+        "header": {
+            "words": "this is w2_1 header"
+        },
+        "content": "this is w2_1 content!",
+        "footer": {
+            "words": "this is w2_1 footer"
+        }
+    },
+    "w2_2": {
+        "idf": "w2_2",
+        "header": {
+            "words": "this is w2_2 header"
+        },
+        "content": "this is w2_2 content!",
+        "footer": {
+            "words": "this is w2_2 footer"
+        }
+    },
+    "footer_1": {
+        "idf": "footer_1"
+    }
+}

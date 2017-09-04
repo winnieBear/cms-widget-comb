@@ -1,0 +1,47 @@
+{
+  "widget": [
+    {
+      "id": 1,
+      "type": 4,
+      "path": "widget/header/header.vm",
+      "name": "页面头部导航组件"
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "path": "widget/w1/w1.vm",
+      "name": "w1组件"
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "path": "widget/w2/w2.vm",
+      "name": "w2组件"
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "path": "widget/wheader/wheader.vm",
+      "name": "头部标题组件"
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "path": "widget/wfooter/wfooter.vm",
+      "name": "尾部标题组件"
+    },
+    {
+      "id": 6,
+      "type": 5,
+      "path": "widget/footer/footer.vm",
+      "name": "页面底部组件"
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "path": "widget/w3/w3.vm",
+      "name": "w3组件"
+    }
+  ],
+  "block_a": []
+}

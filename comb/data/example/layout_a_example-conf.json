@@ -1,0 +1,62 @@
+{
+    "project": "project_a",
+    "pageLayout": "layout_a",
+    "pagePath": "example/layout_a_example",
+    "blockConf":{
+        "header":{
+            "bkName":"header",
+            "containerId": "bk_header",
+            "pos": 100,
+            "fixedWiget": true,
+            "arrWidget": [
+                {
+                    "name": "widget/header/header.vm",
+                    "id": "header_1",
+                    "desc": "header",
+                    "conf": {
+                        "dataKey": "header_1"
+                    }
+                }
+            ]
+        },
+        "block_a": {
+            "bkName": "block_a",
+            "containerId": "bk_a",
+            "pos": 200,
+            "arrWidget": [
+                {
+                    "name": "widget/w1/w1.vm",
+                    "id": "w1_1",
+                    "desc": "w1",
+                    "conf": {
+                        "dataKey": "w1_1"
+                    }
+                },
+                {
+                    "name": "widget/w2/w2.vm",
+                    "id": "w2_1",
+                    "desc": "w2_1",
+                    "conf": {
+                        "dataKey": "w2_1"
+                    }
+                }
+            ]
+        },
+        "footer": {
+            "bkName": "footer",
+            "containerId": "bk_footer",
+            "pos": 300,
+            "fixedWiget": true,
+            "arrWidget": [
+                {
+                    "name": "widget/footer/footer.vm",
+                    "id": "footer_1",
+                    "desc": "footer",
+                    "conf": {
+                        "dataKey": "footer_1"
+                    }
+                }
+            ]
+        }
+    }
+}

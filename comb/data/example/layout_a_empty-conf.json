@@ -1,0 +1,28 @@
+{
+    "project": "project_a",
+    "pageLayout": "layout_a",
+    "pagePath": "example/layout_a_empty",
+    "blockConf": {
+        "header": {
+            "bkName": "header",
+            "bkType": 4,
+            "containerId": "bk_header",
+            "pos": 100,
+            "arrWidget": []
+        },
+        "block_a": {
+            "bkName": "block_a",
+            "bkType": 1,
+            "containerId": "bk_a",
+            "pos": 200,
+            "arrWidget": []
+        },
+        "footer": {
+            "bkName": "footer",
+            "bkType": 5,
+            "containerId": "bk_footer",
+            "pos": 300,
+            "arrWidget": []
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.DS_Store
+
+/.idea
+
+/components
+
+
+
+/output
+
+/cache
+/node_modules
+/server
+/work
+/www
+/pub2
